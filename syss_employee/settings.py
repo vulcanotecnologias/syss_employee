@@ -78,6 +78,10 @@ REST_FRAMEWORK = {
     ]
 }
 
+STATICFILES_DIRS = [
+    BASE_DIR / "static",
+]
+
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
