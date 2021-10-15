@@ -83,12 +83,8 @@ REST_FRAMEWORK = {
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'syss_employee',
-        'USER': 'root',
-        'PASSWORD': 'PASSWORD',
-        'HOST': '172.17.0.2',
-        'PORT': '3306'
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': 'syssemployee'
     }
 }
 
