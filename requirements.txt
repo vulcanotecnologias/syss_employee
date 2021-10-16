@@ -1,3 +1,6 @@
 pytest==6.2.5
 Django==2.2.12
 django_heroku==0.3.1
+djangorestframework
+markdown
+django-filter
