@@ -4,3 +4,4 @@ django_heroku==0.3.1
 djangorestframework
 markdown
 django-filter
+gunicorn
