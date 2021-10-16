@@ -5,3 +5,4 @@ djangorestframework
 markdown
 django-filter
 gunicorn
+psycopg2-binary==2.8.6
