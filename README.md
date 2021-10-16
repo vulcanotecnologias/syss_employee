@@ -8,5 +8,5 @@
 - Foi utilizado o banco de dados SQLite3 (pela facilidade de configuração no ambiente)
 
 # Login e senha
-- O login para acessar o sistema é teste com senha 12345678
+- O login para acessar o sistema é teste e a senha é 12345678
 
