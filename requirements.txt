@@ -18,7 +18,6 @@ click-plugins==1.1.1
 cligj==0.7.2
 colorama==0.4.3
 cryptography==2.8
-cupshelpers==1.0
 cycler==0.10.0
 dash==2.0.0
 dash-bootstrap-components==0.13.1
