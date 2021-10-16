@@ -1,0 +1,1 @@
+web: gunicorn syss_employee.wsgi
